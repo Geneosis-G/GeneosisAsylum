@@ -1,0 +1,35 @@
+U mad bro?
+
+"Mad ?!? I'm not mad! It's the goats... They're everywhere! Licking, bleating and kicking everything they see... They're driving me insane! Oh no, they are back! Not the goats! Not again! No, no, no, AAAAAAAH!"
+- An ordinary man.
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FERATURES[/b]
+- Asylum: You can drive humans insane.
+
+[b]COMMANDS[/b]
+- [b][1]:[/b] Nearby ragdolled humans become insane.
+
+[b]GAMEPAD COMMANDS[/b]
+- [b][LB]:[/b] Nearby ragdolled humans become insane.
+
+[b]CHARACTERISTICS[/b]
+- Insane humans have particles around their head.
+- Insane humans randomly attack everything, with a preference for explosive and breakable objects.
+- Insane humans have 3 lifes (kick them 3 times to kill them).
+- Insane humans will stop being insane of they drown.
+
+[b]EASTER EGGS[/b]
+- [spoiler]Any NPC with "human form" can actually become insane...[/spoiler]
+- [spoiler]DO NOT combine this mutator with Goatborn! Never :p[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- All crashes should be fixed, but if you get one please explain how in the comments.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]I can hardly stop laughing after testing this mod XD This is probably the most hilarious mod I have ever made, the random actions of humans are just so dumb that they make me laugh every time X)
+Anyway, that mod was a suggestion posted on my request thread and was originally called Rioter Goat or Anarchist Goat, anyway I didn't like those name because I think they sound a bit too "serious" in this funny game ^^ Also by assimilating the new AI I made for NPCs as "madness" I could add various other fun actions that actually make some sense for a mad person :p
+So that's it this mod is basically just a new AI for NPCs, I started with my own Zombie AI and improved it to give to the NPCs the ability to attack any item. I also fixed some bugs and glitghy behaviour of the Zombie AI that I didn't understand before :)
+When that part was complete, the mod felt a bit easter-egg-less, so I thought about something that could go well with the context of insanity... The answer came easily as I had this stupid meme song playing in loop in my mind all the time I was working on the mod X)
+[/quote]
